@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 20 21:12:27 2024
-
-@author: nicolebruce
-"""
-
 # This Python file contains a modified version of the Integrated Oscillator Model (IOM) 
 # to implement a negative feedback loop with a delay as a mechanism to synchronize islets. 
 
